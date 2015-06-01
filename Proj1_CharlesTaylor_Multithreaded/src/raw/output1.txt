@@ -1,0 +1,227 @@
+/usr/lib/jvm/java-7-openjdk/bin/java -Didea.launcher.port=7541 -Didea.launcher.bin.path=/usr/share/intellijidea-ce/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/java-7-openjdk/jre/lib/management-agent.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-7-openjdk/jre/lib/ext/sunpkcs11.jar:/home/charles/IdeaProjects/Proj1_CharlesTaylor_Multithreaded/out/production/Proj1_CharlesTaylor_Multithreaded:/usr/share/intellijidea-ce/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain Driver
+Station 1: Workload set to 3
+Station 4: Workload set to 5
+Station 4: In-Connection set to pipe 4
+Station 3: Workload set to 1
+Station 3: In-Connection set to pipe 3
+Station 3: Out-Connection set to pipe 2
+Station 2: Workload set to 4
+Station 2: In-Connection set to pipe 2
+Station 2: Out-Connection set to pipe 1
+Station 0: Workload set to 2
+Station 0: In-Connection set to pipe 0
+Station 0: Out-Connection set to pipe 6
+Station 2: granted access to pipe 2
+Station 3: granted access to pipe 3
+Station 4: Out-Connection set to pipe 3
+Station 4: granted access to pipe 4
+Station 1: In-Connection set to pipe 1
+Station 1: Out-Connection set to pipe 0
+Station 4: granted access to pipe 3
+Station 3: released access to pipe 3
+Station 2: granted access to pipe 1
+Station 2: Successfully flows on pipe 2
+Station 0: granted access to pipe 0
+Station 2: Successfully flows on pipe 1
+Station 2: Workload set to 3
+Station 3: granted access to pipe 2
+Station 3: released access to pipe 3
+Station 3: granted access to pipe 2
+Station 3: released access to pipe 3
+Station 4: Successfully flows on pipe 4
+Station 4: Successfully flows on pipe 3
+Station 4: Workload set to 4
+Station 1: granted access to pipe 1
+Station 1: released access to pipe 1
+Station 3: granted access to pipe 2
+Station 0: granted access to pipe 6
+Station 0: Successfully flows on pipe 0
+Station 0: Successfully flows on pipe 6
+Station 0: Workload set to 1
+Station 3: released access to pipe 3
+Station 3: granted access to pipe 3
+Station 3: granted access to pipe 2
+Station 3: Successfully flows on pipe 3
+Station 3: Successfully flows on pipe 2
+Station 3: Workload set to 0
+Station 1: granted access to pipe 1
+Station 1: granted access to pipe 0
+Station 1: Successfully flows on pipe 1
+Station 1: Successfully flows on pipe 0
+Station 1: Workload set to 2
+Station 5: Workload set to 7
+Station 5: In-Connection set to pipe 5
+Station 5: Out-Connection set to pipe 4
+Station 5: granted access to pipe 5
+Station 6: Workload set to 2
+Station 6: In-Connection set to pipe 6
+Station 6: Out-Connection set to pipe 5
+Station 6: granted access to pipe 6
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 5: granted access to pipe 4
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 5: Successfully flows on pipe 5
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 6: released access to pipe 6
+Station 6: granted access to pipe 6
+Station 6: released access to pipe 6
+Station 5: Successfully flows on pipe 4
+Station 5: Workload set to 6
+Station 6: granted access to pipe 6
+Station 6: granted access to pipe 5
+Station 6: Successfully flows on pipe 6
+Station 6: Successfully flows on pipe 5
+Station 6: Workload set to 1
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+Station 2: granted access to pipe 2
+Station 2: granted access to pipe 1
+Station 2: Successfully flows on pipe 2
+Station 2: Successfully flows on pipe 1
+Station 2: Workload set to 2
+Station 4: released access to pipe 4
+Station 4: released access to pipe 3
+Station 4: granted access to pipe 4
+Station 4: granted access to pipe 3
+Station 4: Successfully flows on pipe 4
+Station 4: Successfully flows on pipe 3
+Station 4: Workload set to 3
+Station 0: released access to pipe 0
+Station 0: released access to pipe 6
+Station 0: granted access to pipe 0
+Station 0: granted access to pipe 6
+Station 0: Successfully flows on pipe 0
+Station 0: Successfully flows on pipe 6
+Station 0: Workload set to 0
+Station 3: released access to pipe 3
+Station 3: released access to pipe 2
+* * Station 3: Workload successfully completed. * *
+Station 1: released access to pipe 1
+Station 1: released access to pipe 0
+Station 1: granted access to pipe 1
+Station 1: granted access to pipe 0
+Station 1: Successfully flows on pipe 1
+Station 1: Successfully flows on pipe 0
+Station 1: Workload set to 1
+Station 5: released access to pipe 5
+Station 5: released access to pipe 4
+Station 5: granted access to pipe 5
+Station 5: granted access to pipe 4
+Station 5: Successfully flows on pipe 5
+Station 5: Successfully flows on pipe 4
+Station 5: Workload set to 5
+Station 6: released access to pipe 6
+Station 6: released access to pipe 5
+Station 6: granted access to pipe 6
+Station 6: granted access to pipe 5
+Station 6: Successfully flows on pipe 6
+Station 6: Successfully flows on pipe 5
+Station 6: Workload set to 0
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+Station 2: granted access to pipe 2
+Station 2: granted access to pipe 1
+Station 2: Successfully flows on pipe 2
+Station 2: Successfully flows on pipe 1
+Station 2: Workload set to 1
+Station 4: released access to pipe 4
+Station 4: released access to pipe 3
+Station 4: granted access to pipe 4
+Station 4: granted access to pipe 3
+Station 4: Successfully flows on pipe 4
+Station 4: Successfully flows on pipe 3
+Station 4: Workload set to 2
+Station 0: released access to pipe 0
+Station 0: released access to pipe 6
+Station 1: released access to pipe 1
+Station 1: released access to pipe 0
+* * Station 0: Workload successfully completed. * *
+Station 1: granted access to pipe 1
+Station 1: granted access to pipe 0
+Station 1: Successfully flows on pipe 1
+Station 1: Successfully flows on pipe 0
+Station 5: released access to pipe 5
+Station 5: released access to pipe 4
+Station 1: Workload set to 0
+Station 5: granted access to pipe 5
+Station 5: granted access to pipe 4
+Station 5: Successfully flows on pipe 5
+Station 5: Successfully flows on pipe 4
+Station 5: Workload set to 4
+Station 6: released access to pipe 6
+Station 6: released access to pipe 5
+* * Station 6: Workload successfully completed. * *
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+Station 2: granted access to pipe 2
+Station 2: granted access to pipe 1
+Station 2: Successfully flows on pipe 2
+Station 2: Successfully flows on pipe 1
+Station 2: Workload set to 0
+Station 4: released access to pipe 4
+Station 4: released access to pipe 3
+Station 4: granted access to pipe 4
+Station 4: granted access to pipe 3
+Station 4: Successfully flows on pipe 4
+Station 4: Successfully flows on pipe 3
+Station 4: Workload set to 1
+Station 1: released access to pipe 1
+Station 1: released access to pipe 0
+* * Station 1: Workload successfully completed. * *
+Station 5: released access to pipe 5
+Station 5: released access to pipe 4
+Station 5: granted access to pipe 5
+Station 5: granted access to pipe 4
+Station 5: Successfully flows on pipe 5
+Station 5: Successfully flows on pipe 4
+Station 5: Workload set to 3
+Station 2: released access to pipe 2
+Station 2: released access to pipe 1
+* * Station 2: Workload successfully completed. * *
+Station 4: released access to pipe 4
+Station 4: released access to pipe 3
+Station 4: granted access to pipe 4
+Station 4: granted access to pipe 3
+Station 4: Successfully flows on pipe 4
+Station 4: Successfully flows on pipe 3
+Station 4: Workload set to 0
+Station 5: released access to pipe 5
+Station 5: released access to pipe 4
+Station 5: granted access to pipe 5
+Station 5: granted access to pipe 4
+Station 5: Successfully flows on pipe 5
+Station 5: Successfully flows on pipe 4
+Station 5: Workload set to 2
+Station 4: released access to pipe 4
+Station 4: released access to pipe 3
+* * Station 4: Workload successfully completed. * *
+Station 5: released access to pipe 5
+Station 5: released access to pipe 4
+Station 5: granted access to pipe 5
+Station 5: granted access to pipe 4
+Station 5: Successfully flows on pipe 5
+Station 5: Successfully flows on pipe 4
+Station 5: Workload set to 1
+Station 5: released access to pipe 5
+Station 5: released access to pipe 4
+Station 5: granted access to pipe 5
+Station 5: granted access to pipe 4
+Station 5: Successfully flows on pipe 5
+Station 5: Successfully flows on pipe 4
+Station 5: Workload set to 0
+Station 5: released access to pipe 5
+Station 5: released access to pipe 4
+* * Station 5: Workload successfully completed. * *
+
+Process finished with exit code 0
