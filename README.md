@@ -1,4 +1,4 @@
-# CNT-4714
+# enterprise_applications
 
 ##Expectations
 This course to open the world of heterogeneous enterprise computing
