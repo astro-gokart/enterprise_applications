@@ -196,7 +196,7 @@ public class ClientGUI extends JFrame {
         jLabel3.setText("Database URL");
         jPanel1.add(jLabel3);
 
-        jComboBox2.setModel(new DefaultComboBoxModel(new String[] { "jdbc:mysql://54.85.107.167:3306/project2", "jdbc:mysql://localhost:3306/project2", "jdbc:mysql://localhost:3310/project2" }));
+        jComboBox2.setModel(new DefaultComboBoxModel(new String[] {"jdbc:mysql://localhost:3306/project2", "jdbc:mysql://localhost:3310/project2" }));
         jPanel1.add(jComboBox2);
 
         jLabel4.setText("Username");
